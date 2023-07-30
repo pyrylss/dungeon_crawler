@@ -66,5 +66,6 @@ Two disclaimers regarding WSL:
 ### Controls:
 The player is controlled using the W,A,S and D keys, while using the Left Mouse Button makes the player shoot in the direction of the cursor. Once all the enemies have been vanquished, three doors will appear, which will give the player a buff and spawn them in a new room with more enemies. The player can restart the game at any point by pressing the P button. Health potions are used by pressing the R button. Doors can be used simply by running into them. 
 PS. (Pressing Enter kills all the enemies in the room you are currently in. This is a cheat meant to help with testing, but if you find the game too difficult, this can help with seeing the game to its conclusion)
+![Screenshot 2023-07-30 at 16 14 11](https://github.com/pyrylss/dungeon_crawler/assets/97807894/53392562-eac9-49fe-bdb0-137b88b8f7e9)
 
 
