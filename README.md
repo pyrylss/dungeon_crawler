@@ -1,4 +1,4 @@
-# dungeon_crawler
+# Dungeon Crawler
 
 ## Overview 
 
@@ -8,6 +8,7 @@ The game is realtime, and the player and monsters use magical based ranged weapo
 
 ## Software structure
 
+![Screenshot 2023-07-30 at 16 03 46](https://github.com/pyrylss/dungeon_crawler/assets/97807894/ced28fe2-6cc0-46ff-9af1-c3c3936c76cf)
 
 The derived classes of the Prize class (ExtraHP, Speedboost, WeaponUpgrade and Healthpotion) that represent different types of prizes are omitted from the UML graph for clarity.
 Game: 
