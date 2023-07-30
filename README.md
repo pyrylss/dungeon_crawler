@@ -1,5 +1,8 @@
 # Dungeon Crawler
 
+![Screenshot 2023-07-30 at 15 58 10](https://github.com/pyrylss/dungeon_crawler/assets/97807894/db9977c6-ee94-4e88-b5c3-53f280c4c66e)
+
+
 ## Overview 
 
 This project is a simple top-down roguelike dungeon crawler game, where the player clears rooms of enemies and eventually wins the game by clearing enough rooms and killing the final boss. 
