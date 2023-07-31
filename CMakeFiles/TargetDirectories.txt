@@ -1,3 +1,0 @@
-/Users/pyrysatama/documents/dungeon_crawler/CMakeFiles/DungeonCrawler1.dir
-/Users/pyrysatama/documents/dungeon_crawler/CMakeFiles/edit_cache.dir
-/Users/pyrysatama/documents/dungeon_crawler/CMakeFiles/rebuild_cache.dir
