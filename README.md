@@ -57,11 +57,14 @@ Two disclaimers regarding WSL:
   b. On Mac install it using homebrew (https://brew.sh/) with brew install sfml
 2. Clone the project
 3. Go inside the cloned folder using cd dungeon_crawler
-4. Configure CMake with cmake .
-   a. This part might fail if something is not right with your install
-5. Build with make
-6. Open the successfully compiled program with ./DungeonCrawler1 (Linux/WSL), or open DungeonCrawler1 (Mac)
-7. Done!
+4. Create a build directory and navigate into it
+	- 'mkdir build'
+	- 'cd build'
+5. Configure CMake with 'cmake ..'
+	- This part might fail if something is not right with your install
+6. Build with make
+7. Open the successfully compiled program with ./DungeonCrawler1 (Linux/WSL), or open DungeonCrawler1 (Mac)
+8. Done!
    
 ### Controls:
 The player is controlled using the W,A,S and D keys, while using the Left Mouse Button makes the player shoot in the direction of the cursor. Once all the enemies have been vanquished, three doors will appear, which will give the player a buff and spawn them in a new room with more enemies. The player can restart the game at any point by pressing the P button. Health potions are used by pressing the R button. Doors can be used simply by running into them. 
