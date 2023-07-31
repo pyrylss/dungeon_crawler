@@ -56,7 +56,7 @@ Two disclaimers regarding WSL:
   a. If it is not installed use the command sudo apt-get install libsfml-dev (Linux/WSL (Debian))
   b. On Mac install it using homebrew (https://brew.sh/) with brew install sfml
 2. Clone the project
-3. Go inside the cloned folder using cd dungeon-crawler
+3. Go inside the cloned folder using cd dungeon_crawler
 4. Configure CMake with cmake .
    a. This part might fail if something is not right with your install
 5. Build with make
