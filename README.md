@@ -58,9 +58,9 @@ Two disclaimers regarding WSL:
 2. Clone the project
 3. Go inside the cloned folder using cd dungeon_crawler
 4. Create a build directory and navigate into it
-	- 'mkdir build'
-	- 'cd build'
-5. Configure CMake with 'cmake ..'
+	- `mkdir build`
+	- `cd build`
+5. Configure CMake with `cmake ..`
 	- This part might fail if something is not right with your install
 6. Build with make
 7. Open the successfully compiled program with ./DungeonCrawler1 (Linux/WSL), or open DungeonCrawler1 (Mac)
