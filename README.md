@@ -53,10 +53,10 @@ Two disclaimers regarding WSL:
 
 
 1. Make sure SFML 2.5.1 (Simple Fast Media Library) is installed on your computer.
-  a. If it is not installed use the command sudo apt-get install libsfml-dev (Linux/WSL (Debian))
-  b. On Mac install it using homebrew (https://brew.sh/) with brew install sfml
+  a. If it is not installed use the command `sudo apt-get install libsfml-dev` (Linux/WSL (Debian))
+  b. On Mac install it using homebrew (https://brew.sh/) with `brew install sfml`
 2. Clone the project
-3. Go inside the cloned folder using cd dungeon_crawler
+3. Go inside the cloned folder using `cd dungeon_crawler`
 4. Create a build directory and navigate into it
 	- `mkdir build`
 	- `cd build`
