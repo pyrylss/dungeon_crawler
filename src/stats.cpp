@@ -80,7 +80,11 @@ void Stats::DrawUi(Player& player, sf::RenderWindow& window){
     //Weapon text
     sf::Text weapontxt;
     std::pair<int, float> weaponstats = player.getWeaponStats();
-    weapontxt.setString("WEAPON \nDamage: " + std::to_string(weaponstats.first) + "\nSpeed: " + std::to_string(weaponstats.second));
+    int str_len = 3;
+    if(weaponstats.second >= 10.0) {
+        str_len = 4;
+    }
+    weapontxt.setString("WEAPON \nDamage: " + std::to_string(weaponstats.first) + "\nSpeed: " + std::to_string(weaponstats.second).substr(0,str_len));
     weapontxt.setFont(font);
     weapontxt.setFillColor(sf::Color::White);
     weapontxt.setCharacterSize(30);    
